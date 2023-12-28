@@ -4,6 +4,6 @@
   <artifactId>pwd-end</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-	  <finalName>pwd-end</finalName>
+	  <finalName>pwd-end-changed</finalName>
   </build>
 </project>
